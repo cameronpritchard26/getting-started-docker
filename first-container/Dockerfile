@@ -1,5 +1,5 @@
 # Test web app that returns the name of the host/pod/container servicing req
-# Linux x64
+# Linux x64 ... look to switch images
 FROM node:current-alpine
 
 LABEL org.opencontainers.image.title="Hello Docker Learners!" \
